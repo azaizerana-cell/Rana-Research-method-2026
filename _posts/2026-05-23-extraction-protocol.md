@@ -1,69 +1,65 @@
 ---
 layout: post
-title: "Carbon uptake and metabolite extraction protocol in Prochlorococcus"
+title: "Carbon uptake and metabolite extraction in Prochlorococcus under nitrogen starvation"
 date: 2026-05-23
 ---
 
-# Carbon uptake and metabolite extraction protocol in *Prochlorococcus*
+# Carbon uptake and metabolite extraction in *Prochlorococcus* under nitrogen starvation
 
-## Experimental setup: carbon uptake and metabolites in *Prochlorococcus* under nitrogen starvation
+## Experimental setup
 
-This protocol aims to quantify **metabolic activity** and **nutrient uptake dynamics** in *Prochlorococcus* strain MED4 under nitrogen starvation.
+The protocol aims to quantify **metabolic activity** and **nutrient uptake dynamics** in *Prochlorococcus* MED4 under nitrogen starvation by combining stable isotope labeling with ¹³C, metabolite extraction, and LC-MS/MS analysis.
 
-The experiment combines stable isotope labeling with **NaH¹³CO₃**, metabolite extraction, and LC-MS/MS analysis. Cultures are grown to mid-exponential phase and exposed to NaH¹³CO₃ in order to track carbon incorporation into intracellular metabolites over time.
+Cultures were grown to mid-exponential phase and exposed to NaH¹³CO₃, allowing the tracking of carbon incorporation into intracellular metabolites over time. Subsequent filtration, quenching in methanol, and extraction using a chloroform–methanol–water system were used to preserve and isolate small metabolites, such as amino acids, for quantitative and isotopic analysis.
 
-The protocol also aims to determine the timing of ¹³C incorporation into cells, characterize changes in the ¹³C/¹²C ratio over time, and identify the minimal sample volume that can be used without compromising analytical sensitivity or data quality.
+In addition, the protocol aims to determine the timing of ¹³C incorporation into cells, characterize how the ¹³C/¹²C ratio changes over time, and identify the minimal sample volume that can be used without compromising analytical sensitivity or data quality.
 
 <u>All work with chloroform and methanol must be performed under a chemical fume hood.</u>
 
 ---
 
-## Background
+## Culture preparation
 
-### Biological reason
+Eighteen glass culture tubes of *Prochlorococcus* strain MED4 were grown in 25 mL culture volume. For each tube, 1 mL of culture was transferred into 24 mL of Low Nitrogen 1/8 medium.
 
-The original extraction protocol was developed for *Chlamydomonas reinhardtii*, which has a larger cell size and higher biomass than *Prochlorococcus*.
+Cultures were incubated until reaching the mid-exponential growth phase.
 
-### Chemical reason
-
-*Chlamydomonas reinhardtii* grows in freshwater, whereas *Prochlorococcus* grows in marine conditions. Therefore, salinity and osmotic conditions may affect metabolite extraction efficiency.
+**Date:** 30/04/2026
 
 ---
 
-## Experimental design
+## Culture tube organization
 
-Eighteen glass culture tubes of *Prochlorococcus* strain MED4 were grown in 25 mL culture volume.
+The 18 culture tubes were named as follows:
 
-For each tube, 1 mL of culture was transferred into 24 mL of Low Nitrogen 1/8 medium. Cultures were incubated until they reached the mid-exponential growth phase.
+1. Control A without ¹³C  
+2. Control B without ¹³C  
+3. 0 H A without ¹³C  
+4. 0 H B without ¹³C  
+5. 2 H A with ¹³C  
+6. 2 H B with ¹³C  
+7. 4 H A with ¹³C  
+8. 4 H B with ¹³C  
+9. 6 H A with ¹³C  
+10. 6 H B with ¹³C  
+11. 10 H A with ¹³C  
+12. 10 H B with ¹³C  
+13. 12 H A with ¹³C  
+14. 12 H B with ¹³C  
+15. 24 H A with ¹³C  
+16. 24 H B with ¹³C  
+17. Efficiency control A  
+18. Efficiency control B  
 
-Date: 30/04/2026
-
-### Culture tube organization
-
-| Tube number | Sample name | ¹³C treatment | Time point | Replicate | Purpose |
-|-------------|-------------|---------------|------------|-----------|---------|
-| 1 | Control A | Without ¹³C | Control | A | Negative control |
-| 2 | Control B | Without ¹³C | Control | B | Negative control |
-| 3 | 0 H A | Without ¹³C | 0 H | A | Time-zero sample |
-| 4 | 0 H B | Without ¹³C | 0 H | B | Time-zero sample |
-| 5 | 2 H A | With ¹³C | 2 H | A | Labeling sample |
-| 6 | 2 H B | With ¹³C | 2 H | B | Labeling sample |
-
----
-
-## Figure
-
-![Experimental setup]({{ site.baseurl }}/images/experimental_setup.jpg)
-
-Figure 1: Experimental setup and sample organization for the ¹³C labeling experiment in *Prochlorococcus* MED4.
+In parallel, fluorescence measurements were performed daily to monitor growth.
 
 ---
 
-## ¹³C labeling experiment
+## ¹³C labeling
 
-On 5/5/2026, once the cultures reached the mid-exponential phase, culture tubes 5–16 received 25 µL of NaH¹³CO₃.
+On 5/5/2026, once the cultures reached the mid-exponential phase, sample tubes 5–16 received 25 µL of NaH¹³CO₃.
 
-Samples were collected at different time points:
+Following the addition of NaH¹³CO₃, samples were collected at different time points:
 
 - 0 H
 - 2 H
@@ -75,22 +71,28 @@ Samples were collected at different time points:
 
 For flow cytometry analysis, 100 µL of culture was mixed with 900 µL of filtered seawater and fixed with 5 µL of glutaraldehyde.
 
-In parallel, samples 3–16 were filtered onto GF/F filters at the different time points. The filters were stored in 1 mL MeOH at −80°C.
+In parallel, samples 3–16 were filtered onto GF/F filters at different time points. The filters were stored in 1 mL MeOH at −80°C.
 
-Samples 17 and 18 were used as efficiency controls. They were filtered onto GF/F filters and stored in 1 mL seawater at −80°C.
+Samples 17 and 18 were filtered onto GF/F filters and stored in 1 mL seawater at −80°C.
 
 ---
 
-## Additional flask experiment
+## Flask cultures
 
-In addition to the 18 glass tubes, two 200 mL flasks of *Prochlorococcus* strain MED4 were grown in Low Nitrogen 1/8 medium.
+In addition, two 200 mL flasks of *Prochlorococcus* strain MED4 were grown in Low Nitrogen 1/8 medium.
 
-For each 200 mL flask, 10 mL of culture was transferred into 190 mL medium.
+For the 200 mL flasks, 10 mL of culture was transferred into 190 mL medium.
 
-The two flasks were named:
+**Date:** 30/04/2026, 9–10 AM
+
+The two flasks were named as follows:
 
 - Flask cell culture A
 - Flask cell culture B
+
+In parallel, fluorescence measurements were performed daily to monitor growth.
+
+On 5/5/2026, once the cultures reached the mid-exponential phase, samples were prepared for flow cytometry analysis. For each sample, 100 µL of culture was mixed with 900 µL of filtered seawater and fixed with 5 µL of glutaraldehyde.
 
 Samples were filtered onto GF/F filters using different culture volumes:
 
@@ -103,28 +105,32 @@ The filters were stored in 1 mL MeOH at −80°C.
 
 ---
 
-## Important experimental note
+## Experimental correction note
 
-The 12-hour time point and one replicate from the DDW control were omitted because a new fresh NaH¹³CO₃ solution was prepared.
+I omitted the 12-hour time point in the experiment, as well as one replicate from the DDW control, because I prepared a new fresh NaH¹³CO₃ solution.
 
-The first NaH¹³CO₃ solution was suspected to have been prepared incorrectly in terms of volumes. In addition, during the additions, the remaining volume was not sufficient for all samples.
+The reason for preparing a new NaH¹³CO₃ solution was that the first solution was suspected to have been prepared incorrectly in terms of volumes. In addition, when I reached tube 3 during the additions, I realized that the remaining volume would not be sufficient for all samples.
 
 As a result:
 
 - Tubes 13 and 14 became tubes 5 and 6.
 - Tube 17 became tube 7.
 
-The positive controls included two replicate tubes from the 24-hour time point that received NaH¹³CO₃, as well as two non-filtered control cultures supplemented with NaH¹³CO₃.
+![Experimental setup]({{ site.baseurl }}/images/experimental_setup.png)
+
+Figure 1: Experimental organization of the culture tubes before and after correction of the NaH¹³CO₃ additions during the ¹³C labeling experiment.
+
+The positive controls included two replicate tubes from the 24-hour time point that received NaH¹³CO₃, as well as two replicate tubes grown as non-filtered controls supplemented with NaH¹³CO₃.
 
 The negative controls consisted of two tubes filtered at time zero that did not receive NaH¹³CO₃.
 
-During filtration, light intensity should be maintained similar to the growth conditions of the cells in order to minimize physiological stress.
+During the filtration step, light intensity should be maintained similar to the growth conditions of the cells in order to minimize physiological stress.
 
 ---
 
-# Flow cytometry measurement
+# Flow cytometer measurement
 
-Before measurement, the bacterial culture was diluted again 10-fold with seawater, resulting in a final dilution of 1:100.
+Before use, the bacterial culture was diluted again 10-fold with seawater, resulting in a final dilution of 1:100.
 
 The flow cytometry plate included:
 
@@ -135,18 +141,77 @@ The flow cytometry plate included:
 
 In addition, 1 µL of BIDAS was added to the bacterial culture and seawater mixture.
 
+**Name:** Rana Azaize  
+**Date:** 9/5/2026  
+**Project:** try4-master
+
+---
+
+## Flow cytometry plate layout
+
+| Row | 1 | 2 | 3 | 4 | 5 | 6 |
+|-----|---|---|---|---|---|---|
+| A | SW | SW | SW | B | B | B |
+| B | E. control | E. control | 0 H A | 0 H A | 0 H B | 0 H B |
+| C | 4 H A | 4 H A | 4 H B | 4 H B | 6 H A | 6 H A |
+| D | 24 H A | 24 H A | 24 H B | 24 H B | Flask 1 | Flask 1 |
+| E | DDW | DDW | DDW | DDW | DDW | DDW |
+| F | 2 H A | 2 H A | 2 H B | 2 H B | 10 H A | 10 H A |
+
 ---
 
 # Table of materials required for preparation
 
-| Material | Volume | Amount | Temperature | Purpose | Notes |
-|----------|--------|--------|-------------|---------|-------|
-| Low Nitrogen 1/8 medium | 24 mL | 18 tubes | 20–25°C | Culture growth | Marine medium |
-| *Prochlorococcus* MED4 culture | 1 mL | 18 tubes | 20–25°C | Inoculation | Mid-exponential phase |
-| NaH¹³CO₃ | 25 µL | Samples 5–16 | Room temperature | ¹³C labeling | Carbon uptake tracking |
-| Filtered seawater | 900 µL | Per FC sample | Room temperature | Dilution | Used for flow cytometry |
-| Methanol | 1 mL | Per filter | −80°C | Quenching | Absolute MeOH |
-| GF/F filters | 1 filter | Per sample | −80°C storage | Cell collection | Stored in MeOH |
+| Material | Volume × Amount | Total volume | Temperature | Purpose | Notes |
+|----------|-----------------|--------------|-------------|---------|-------|
+| Low N 1/8 medium | 25 mL × 18 + 200 mL × 2 | ≈ 1 L | Room temperature | Culture growth | Marine low nitrogen medium |
+| NaH¹³CO₃ | 12 × 0.025 mL | ≈ 0.5 mL | Room temperature | ¹³C labeling | 1 M solution |
+| Absolute methanol | 24 × 1 mL | ≈ 50 mL | −80°C storage | Quenching | Used with GF/F filters |
+| Filtered seawater | 24 × 0.9 mL | ≈ 30 mL | Room temperature | Flow cytometry dilution | Used for 1:100 dilution |
+| GF/F filters | One box | — | −80°C storage | Cell collection | Filters stored in MeOH |
+| Absolute chloroform | 24 × 1 mL | ≈ 30 mL | −20°C | Extraction | Chemical hood required |
+
+---
+
+# Materials required for extraction
+
+| Item | Amount | Tube type | Temperature | Purpose | Notes |
+|------|--------|-----------|-------------|---------|-------|
+| Precooled ddH₂O | 4 mL × 24 | — | −80°C | Extraction | Stored cold before use |
+| Liquid nitrogen | Coordinate with Dikla | — | Cryogenic | Freeze–thaw | Used for cell disruption |
+| Centrifuge | Coordinate with Eli’s lab | — | 4°C | Phase separation | 14000 rpm |
+| Freeze-dryer | 1 instrument | — | Overnight run | Lyophilization | Freeze-dry samples |
+| Flow cytometry Eppendorf tubes | 20 | 1.5 mL | −80°C storage | FC samples | Fixed samples |
+| Extraction Eppendorf tubes | 24 | 2 mL safe-lock | −80°C storage | Extraction samples | Used for LC-MS/MS preparation |
+
+> **Note:** For the final tubes used in the overnight freeze-drying step, it is recommended to make a sufficiently large hole in the tube cap using a 26G needle to allow proper drying.
+
+---
+
+# Low N 1/8 stock table
+
+| Component | Stock information | Final concentration | Volume | Purpose | Notes |
+|-----------|------------------|---------------------|--------|---------|-------|
+| Filtered seawater | Base medium | — | 1000 mL | Medium preparation | Sterile filtered |
+| NH₄Cl | 0.5 M | 800 µM | 0.2 mL | Nitrogen source | Low N 1/8 medium |
+| NaHPO₄·H₂O | Stock solution | 50 µM | 2 mL | Phosphorus source | Medium component |
+| TMM | Trace metal mix | — | 0.1 mL | Micronutrients | Medium supplement |
+| NaH¹³CO₃ solution | Prepared fresh | 1 M | 500 µL | ¹³C labeling | Used on 5/5/2026 |
+| NaH¹³CO₃ mass | Solid powder | — | 0.0425 g | Stock preparation | First solution discarded |
+
+---
+
+# NaH¹³CO₃ solution
+
+The NaH¹³CO₃ solution prepared on 4/5/2026 was discarded.
+
+A new NaH¹³CO₃ solution prepared on 5/5/2026 was used instead.
+
+Preparation:
+
+- Mass of NaH¹³CO₃: 0.0425 g
+- Final volume with DDW: 500 µL
+- Final concentration: 1 M
 
 ---
 
@@ -154,17 +219,33 @@ In addition, 1 µL of BIDAS was added to the bacterial culture and seawater mixt
 
 This protocol is an updated extraction protocol adapted from metabolite extraction for *Chlamydomonas reinhardtii* to metabolite extraction for *Prochlorococcus*.
 
-## Quenching
+The original protocol was designed for *Chlamydomonas reinhardtii*, with cell radius r = 8–12 µm. This updated protocol is adapted to *Prochlorococcus*, with cell radius r = 0.5–0.7 µm.
 
-25 mL culture was filtered through a GF/F filter in absolute MeOH and stored at −80°C until further use.
+## Biological reason
 
-> **Note:** In the previous protocol, 46% MeOH was used. However, for our bacterial system this condition may need to be adjusted, and absolute MeOH may be more appropriate.
+The algae used in the original protocol have a higher density and larger cell size than our research model.
+
+## Chemical reason
+
+The original algae grow in freshwater, whereas *Prochlorococcus* grows in marine conditions. Therefore, salinity and osmosis may affect extraction efficiency.
+
+> **Note:** Work with chloroform and methanol must be performed under a fume hood.
+
+---
+
+# Quenching
+
+25 mL culture was filtered through a GF/F filter in absolute MeOH.
+
+Samples were stored at −80°C until further use.
+
+> **Note:** In the previous protocol, 46% MeOH was used. However, for our bacterial system, this condition may need to be adjusted, and absolute MeOH may be more appropriate.
 
 ---
 
 # Opening cells by freeze–thaw cycles
 
-Date: 12.5.2026
+**Date:** 12/5/2026
 
 1. Precool chloroform stock at −20°C.
 
@@ -174,37 +255,35 @@ Date: 12.5.2026
 
 4. Vortex vigorously for 10 seconds for each sample.
 
-Total volume per sample:
-
-1200 µL
+5. The total volume for each sample is 1200 µL.
 
 Calculation:
 
 x = (1000 µL × 105 µL) / 525 µL = 200 µL
 
-5. Place samples at −20°C for 1 hour.
+6. Place samples for 1 hour at −20°C.
 
-6. Freeze samples in liquid nitrogen and store at −80°C for 2 hours.
+7. Freeze in liquid nitrogen and store at −80°C for 2 hours.
 
-7. Defrost samples on ice for 15 minutes.
+8. Defrost samples on ice for 15 minutes.
 
-8. Vortex vigorously for 15 seconds for each sample.
+9. Vortex vigorously for 15 seconds for each sample.
 
-9. Freeze again at −80°C.
+10. Freeze again at −80°C.
 
-10. Repeat the freeze–thaw cycle three times.
+11. Repeat the freeze–thaw cycle three times.
 
-> **Note:** Freezing samples at −80°C takes approximately one hour. Therefore, the freeze–thaw cycles were usually performed on the first day, and the extraction was performed on the second day.
+12. Store at −80°C overnight.
 
-11. Store samples overnight at −80°C.
+> **Note:** Freezing samples at −80°C takes approximately one hour. Therefore, the freeze–thaw cycles are usually performed on the first day and the extraction on the second day.
 
-> **Observation:** After three freeze–thaw cycles, green pigment was observed in the lower chloroform phase.
+> **Observation:** During the experiment, after three freeze–thaw cycles, the green pigment was observed in the lower chloroform phase.
 
 ---
 
 # Chloroform / MeOH / precooled ddH₂O extraction
 
-Date: 13.5.2026
+**Date:** 13/5/2026
 
 1. Defrost samples on ice for 15 minutes.
 
@@ -212,7 +291,7 @@ Date: 13.5.2026
 
 3. Place the filters on a white A4 sheet for visual comparison.
 
-> **Note:** During filter removal, some loss of material may occur. Therefore, not all metabolites of interest are necessarily transferred into the extraction solution. Extraction efficiency is not 100%.
+> **Note:** During filter removal, some loss of material may occur. This means that not all metabolites of interest are necessarily transferred into the extraction solution. Extraction efficiency is not 100%. Therefore, additional samples 17 and 18 were included to allow comparison between extracted filters and control filters of identical size that were marked but not treated with methanol, ¹³C, and chloroform.
 
 4. Add 533 µL precooled ddH₂O.
 
@@ -222,107 +301,99 @@ Calculation:
 
 x = (1200 µL × 280 µL) / 630 µL = 533 µL
 
-Total volume per sample:
-
-1733 µL
+The total volume for each sample is 1733 µL.
 
 6. Centrifuge for 5 minutes at 14000 rpm and 4°C.
 
-7. Collect 1400 µL of the ddH₂O/MeOH upper phase into a new Eppendorf tube. This is the first extraction replicate.
+7. Collect 1400 µL of the ddH₂O/MeOH fraction, which is the upper phase.
+
+8. Transfer the upper phase to a new Eppendorf tube. This is the first extraction replicate.
 
 Calculation:
 
 x = (1733 µL × 800 µL) / 910 µL = 1523 µL ≈ 1400 µL
 
-Additional precooled water:
+Precool water calculation:
 
 (280 µL × 1400 µL) / 960 µL ≈ 410 µL
 
-8. Add 410 µL ddH₂O to the new Eppendorf tube.
+9. Add an additional 410 µL of ddH₂O to the Eppendorf tube.
 
-9. Close the tube using punctured caps.
+10. Close with punctured caps.
 
-Final volume of the first extraction replicate:
+The total volume for each new sample is 1810 µL.
 
-1810 µL
-
-Remaining old sample volume:
-
-333 µL
+The total volume remaining in the old sample is 333 µL.
 
 ---
 
 # Second extraction replicate
 
-1. Add 1070 µL precooled ddH₂O to the remaining chloroform phase.
+1. Add 1070 µL precooled ddH₂O to the leftover chloroform phase.
 
 2. Vortex.
+
+The total volume for each old sample is 1403 µL.
 
 Calculation:
 
 x = (560 µL × 210 µL) / 110 µL = 1070 µL
 
-Total volume:
-
-1403 µL
-
 3. Centrifuge for 5 minutes at 14000 rpm and 4°C.
 
-4. Collect 1070 µL of the upper phase into a new Eppendorf tube. This is the second extraction replicate.
+4. Collect 1070 µL of the ddH₂O/MeOH fraction.
 
-Additional precooled water:
+5. Transfer into a new Eppendorf tube. This is the second extraction replicate.
+
+Precool water calculation:
 
 (280 µL × 1070 µL) / 960 µL ≈ 310 µL
 
-5. Add 310 µL ddH₂O to the Eppendorf tube.
+6. Add an additional 310 µL of ddH₂O to the Eppendorf tube.
 
-6. Close the tube using punctured caps.
+7. Close with punctured caps.
 
-Final volume of the second extraction replicate:
+The total volume for each second extraction sample is 1380 µL.
 
-1380 µL
-
-Remaining old sample volume:
-
-333 µL
+The total volume remaining in the old sample is 333 µL.
 
 ---
 
 # Third extraction replicate
 
-1. Repeat the previous extraction step using the remaining chloroform phase.
+1. Repeat the extraction step.
 
-2. Centrifuge for 5 minutes at 14000 rpm and 4°C.
+2. The total volume for each old sample is 1403 µL.
 
-3. Collect 1070 µL of the upper phase into a new Eppendorf tube. This is the third extraction replicate.
+3. Centrifuge for 5 minutes at 14000 rpm and 4°C.
 
-Additional precooled water:
+4. Collect 1070 µL of the ddH₂O/MeOH fraction.
+
+5. Transfer into a new Eppendorf tube. This is the third extraction replicate.
+
+Precool water calculation:
 
 (280 µL × 1070 µL) / 960 µL ≈ 310 µL
 
-4. Add 310 µL ddH₂O to the Eppendorf tube.
+6. Add an additional 310 µL of ddH₂O to the Eppendorf tube.
 
-5. Close the tube using punctured caps.
+7. Close with punctured caps.
 
-Final volume of the third extraction replicate:
+The total volume for each third extraction sample is 1380 µL.
 
-1380 µL
-
-Remaining old sample volume:
-
-333 µL
+The total volume remaining in the old sample is 333 µL.
 
 ---
 
-# Experimental notes
+# Additional experimental notes
 
-> **Note:** In the previous experiment, during steps 1–8, the filters were not removed initially because this step was unintentionally missed. Therefore, an additional step was introduced: the material was detached from the filters, followed by vortexing and centrifugation. Subsequently, 1070 µL of the upper phase was collected.
+> **Note:** In the previous experiment, during steps 1–8, the filters were not removed initially, as this step was unintentionally missed. Therefore, an additional step was introduced: the material was detached from the filters, followed by vortexing and centrifugation. Subsequently, 1070 µL of the upper phase was collected.
 
-> **Note:** Incomplete phase separation was observed in one Eppendorf tube, which contained visible filter residues and pellet material.
+> **Note:** In the previous experiment, incomplete phase separation was observed in the fourth Eppendorf tube, which contained visible filter residues and pellet material.
 
-> **Note:** The addition of water prevents bubbling during freeze-drying.
+The addition of water prevents bubbling during freeze-drying, also called lyophilization.
 
-At this stage, three extraction samples are present with the following volumes:
+At this stage, three samples are present with the following volumes:
 
 - 1810 µL
 - 1380 µL
@@ -330,32 +401,19 @@ At this stage, three extraction samples are present with the following volumes:
 
 ---
 
-# Freeze drying
+# Freeze-drying
 
 1. Store samples at −80°C for 1 hour.
 
-2. Freeze-dry samples overnight.
+2. Freeze-dry overnight.
 
 ---
 
-# Storage
+# Final storage
 
-Date: 14.5.2026
+**Date:** 14/5/2026
 
-After freeze-drying, samples were removed, wrapped with parafilm, and stored at −80°C.
-
----
-
-# LC-MS/MS sample organization
-
-| Sample group | Flow cytometry sample | Filtered sample | Extraction replicate 1 | Extraction replicate 2 | Extraction replicate 3 |
-|--------------|----------------------|-----------------|------------------------|------------------------|------------------------|
-| 0 H A | 0 H A-FC | 3-0 H A-PE | 0 H A-E1 | 0 H A-E2 | 0 H A-E3 |
-| 0 H B | 0 H B-FC | 4-0 H B-PE | 0 H B-E1 | 0 H B-E2 | 0 H B-E3 |
-| 2 H A | 2 H A-FC | 5-2 H A-PE | 2 H A-E1 | 2 H A-E2 | 2 H A-E3 |
-| 2 H B | 2 H B-FC | 6-2 H B-PE | 2 H B-E1 | 2 H B-E2 | 2 H B-E3 |
-| 4 H A | 4 H A-FC | 7-4 H A-PE | 4 H A-E1 | 4 H A-E2 | 4 H A-E3 |
-| 4 H B | 4 H B-FC | 8-4 H B-PE | 4 H B-E1 | 4 H B-E2 | 4 H B-E3 |
+After freeze-drying, the samples were removed, wrapped in parafilm, and stored at −80°C.
 
 ---
 
@@ -377,6 +435,6 @@ After freeze-drying, samples were removed, wrapped with parafilm, and stored at 
 
 # Summary
 
-This protocol describes an adapted metabolite extraction workflow for *Prochlorococcus* MED4 under nitrogen starvation. It combines ¹³C labeling, flow cytometry, GF/F filtration, methanol quenching, chloroform–methanol–water extraction, freeze–thaw cycles, lyophilization, and LC-MS/MS analysis.
+This notebook post describes the experimental setup and extraction protocol for measuring carbon uptake and intracellular metabolite dynamics in *Prochlorococcus* MED4 under nitrogen starvation.
 
-The workflow is designed to study carbon incorporation into intracellular metabolites and to evaluate how sample volume and extraction efficiency affect downstream LC-MS/MS measurements.
+The workflow includes culture preparation, ¹³C labeling with NaH¹³CO₃, flow cytometry sampling, GF/F filtration, methanol quenching, chloroform–methanol–water extraction, freeze–thaw cycles, lyophilization, and final storage for LC-MS/MS analysis.
