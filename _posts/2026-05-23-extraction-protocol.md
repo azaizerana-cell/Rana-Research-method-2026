@@ -147,17 +147,158 @@ In addition, 1 µL of BIDAS was added to the bacterial culture and seawater mixt
 
 ---
 
+
+
 ## Flow cytometry plate layout
 
-| Row | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----|---|---|---|---|---|---|
-| A | SW | SW | SW | B | B | B |
-| B | E. control | E. control | 0 H A | 0 H A | 0 H B | 0 H B |
-| C | 4 H A | 4 H A | 4 H B | 4 H B | 6 H A | 6 H A |
-| D | 24 H A | 24 H A | 24 H B | 24 H B | Flask 1 | Flask 1 |
-| E | DDW | DDW | DDW | DDW | DDW | DDW |
-| F | 2 H A | 2 H A | 2 H B | 2 H B | 10 H A | 10 H A |
+<table>
+<tr>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+</tr>
 
+<tr>
+<td><b>A</b></td>
+<td>SW</td>
+<td>SW</td>
+<td>SW</td>
+<td>B</td>
+<td>B</td>
+<td>B</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>B</b></td>
+<td></td>
+<td></td>
+<td>E.con</td>
+<td>E.con</td>
+<td>0HA</td>
+<td>0HA</td>
+<td>0HB</td>
+<td>0HB</td>
+<td>2HA</td>
+<td>2HA</td>
+<td>2HB</td>
+<td>2HB</td>
+</tr>
+
+<tr>
+<td><b>C</b></td>
+<td>4HA</td>
+<td>4HA</td>
+<td>4HB</td>
+<td>4HB</td>
+<td>6HA</td>
+<td>6HA</td>
+<td>6HB</td>
+<td>6HB</td>
+<td>10HA</td>
+<td>10HA</td>
+<td>10HB</td>
+<td>10HB</td>
+</tr>
+
+<tr>
+<td><b>D</b></td>
+<td>24HA</td>
+<td>24HA</td>
+<td>24HB</td>
+<td>24HB</td>
+<td>flask1</td>
+<td>flask1</td>
+<td>flask2</td>
+<td>flask2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>E</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>F</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>G</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>H</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+
+Figure 2: 96-well plate layout used for flow cytometry measurements.
 ---
 
 # Table of materials required for preparation
