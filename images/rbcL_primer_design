@@ -1,0 +1,8 @@
+images/
+└── rbcL_primer_design/
+    ├── figure1_ncbi_record.png
+    ├── figure2_alignment.png
+    ├── figure3_conserved_variable_regions.png
+    ├── figure4_primer3_results.png
+    ├── figure5_primer_blast.png
+    └── figure6_phylogenetic_tree.png
