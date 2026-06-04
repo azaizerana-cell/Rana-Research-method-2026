@@ -29,7 +29,9 @@ The objective of this study was to design PCR primers targeting the **rbcL** gen
 
 DNA sequences of the **rbcL** gene were collected from the NCBI Nucleotide database. The reference sequence used for primer design was obtained from *Prochlorococcus marinus* subsp. *pastoris* strain NATL1 (Accession Number: AY042090.1). Additional **rbcL** sequences from related *Prochlorococcus* and *Synechococcus* strains were retrieved for phylogenetic analysis. All sequences were downloaded in FASTA format and combined into a single dataset for alignment and tree construction.
 
-![Figure 1](/images/figure1_ncbi_record.png)
+
+![Figure 1](../images/figure1_ncbi_record.png)
+
 
 *Figure 1. NCBI record of the Prochlorococcus marinus NATL1 rbcL gene sequence (AY042090.1) used in this study.*
 ### Selected Sequences
@@ -77,8 +79,8 @@ The collected **rbcL** sequences were aligned using MEGA12. Multiple sequence al
 **Alignment method:** ClustalW
 
 **Sequence type:** DNA
+![Figure 2](../images/figure2_alignment.png)
 
-![Figure 2](/images/figure2_alignment.png)
 
 *Figure 2. Multiple sequence alignment of rbcL DNA sequences performed using ClustalW in MEGA12.*
 
@@ -90,7 +92,7 @@ Several highly conserved nucleotide positions were observed across all aligned s
 
 Multiple variable nucleotide positions were observed throughout the alignment. These variations consisted primarily of single nucleotide polymorphisms (SNPs) that differentiated the *Prochlorococcus* sequences from the *Synechococcus* sequences. The three *Prochlorococcus* sequences showed relatively high sequence similarity, whereas greater divergence was observed between the two genera. Several ambiguous nucleotides (such as N, Y, W, and H) were present in some environmental sequences. No major insertions or deletions (indels) were detected within the aligned region.
 
-![Figure 3](/images/figure3_conserved_variable_regions.png)
+![Figure 3](../images/figure3_conserved_variable_regions.png)
 
 *Figure 3. Multiple sequence alignment of rbcL sequences. Columns containing identical nucleotides across all taxa represent conserved regions, whereas columns containing different nucleotides (different colors) represent variable regions that contribute to genetic and phylogenetic differences among taxa.*
 ## Primer Design
@@ -120,7 +122,7 @@ Primers targeting the **rbcL** gene of *Prochlorococcus marinus* were designed u
 
 The selected primer pair was chosen because both primers have similar melting temperatures (approximately 59°C), balanced GC content (55%), and no significant self-complementarity or hairpin structures. These characteristics increase the likelihood of efficient and specific PCR amplification while minimizing the formation of secondary structures and non-specific PCR products.
 
-![Figure 4](/images/figure4_primer3_results.png)
+![Figure 4](../images/figure4_primer3_results.png)
 
 *Figure 4. Primer3 output showing the selected forward and reverse primers designed for amplification of the rbcL gene of Prochlorococcus marinus NATL1. Primer characteristics including primer position, length, melting temperature (Tm), GC content, and expected amplicon size are shown.*
 ## Primer Verification and Phylogenetic Analysis
@@ -129,7 +131,7 @@ The selected primer pair was chosen because both primers have similar melting te
 
 The primer pair designed using Primer3 was verified using NCBI Primer-BLAST. The analysis confirmed that the selected primers specifically target the **rbcL** gene of *Prochlorococcus marinus* NATL1 (GenBank accession AY042090.1). No significant off-target amplification was detected within the selected RefSeq representative genome database. The expected PCR product size was 223 bp.
 
-![Figure 5](/images/figure5_primer_blast.png)
+![Figure 5](../images/figure5_primer_blast.png)
 
 *Figure 5. Primer-BLAST verification of the selected primer pair targeting the rbcL gene of Prochlorococcus marinus NATL1.*
 
@@ -149,7 +151,7 @@ A phylogenetic tree was constructed using MEGA12 to investigate the evolutionary
 | Bootstrap replicates | 1000 |
 | Gaps/Missing data treatment | Pairwise deletion |
 
-![Figure 6](/images/figure6_phylogenetic_tree.png)
+![Figure 6](../images/figure6_phylogenetic_tree.png)
 
 *Figure 6. Neighbor-Joining phylogenetic tree based on rbcL gene sequences constructed in MEGA12 using the Kimura 2-parameter model with 1000 bootstrap replicates.*
 ## Interpretation of the Phylogenetic Tree
