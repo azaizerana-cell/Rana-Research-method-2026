@@ -119,7 +119,7 @@ The summary statistics indicate differences between the Light and Dark treatment
 
 The fitted curves show the expected increase in electron transport rate with increasing irradiance until saturation is reached. Differences in curve shape and maximum ETR are evident among algal taxa and between the Light and Dark treatment groups.
 
-![](/Rana-Research-method-2026/images/figure1_PI_curves.png)
+![](/Rana-Research-method-2026/images/Figure1_PI_curves.png)
 
 
 ---
