@@ -18,7 +18,7 @@ The aim of this exercise was to survey marine macroalgal communities in the shal
 The practical exercise focused on common marine macroalgae collected from the shallow rocky shore at Sdot Yam. The field identification guide provided during the course was used to assist species identification during sampling and subsequent laboratory analyses.
 
 
-## Study Species
+
 
 The practical exercise focused on common marine macroalgae collected from the shallow rocky shore at Sdot Yam. The field identification guide provided during the course was used to assist species identification during sampling and subsequent laboratory analyses.
 
@@ -89,9 +89,7 @@ The results obtained from the photophysiological analyses are presented in the f
 
 ## Table 1. Metadata
 
-**Table 1.** Metadata describing all algal samples included in the experiment. The table presents the experimental treatment (Light or Dark), sample number, taxonomic identification, and the corresponding Sample ID used throughout the analysis.
-
-![](/images/Table1_Metadata.png)
+**Table 1.** Metadata describing all algal samples included in the experiment. The table presents the experimental treatment (Light or Dark), sample number, taxonomic identification, and the corresponding Sample ID used throughout the analysi
 
 ---
 
