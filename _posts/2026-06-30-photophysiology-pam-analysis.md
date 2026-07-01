@@ -23,6 +23,7 @@ The practical exercise focused on common marine macroalgae collected from the sh
 The practical exercise focused on common marine macroalgae collected from the shallow rocky shore at Sdot Yam. The field identification guide provided during the course was used to assist species identification during sampling and subsequent laboratory analyses.
 
 ![](/images/experimental_setup2.jpeg)
+![](/Rana-Research-method-2026/images/experimental_setup2.jpeg)
 
 
 **Figure1.** Representative macroalgal species included in the field identification guide provided during the practical course. The guide was used to assist species identification during field sampling at the Sdot Yam rocky shore.
@@ -92,6 +93,7 @@ The results obtained from the photophysiological analyses are presented in the f
 **Table 1.** Metadata describing all algal samples included in the experiment. The table presents the experimental treatment (Light or Dark), sample number, taxonomic identification, and the corresponding Sample ID used throughout the analysis.
 
 ![](/images/Table1_Metadata.png)
+![](/Rana-Research-method-2026/images/Table1_Metadata.png)
 
 ---
 
@@ -102,6 +104,8 @@ The results obtained from the photophysiological analyses are presented in the f
 The summary statistics indicate differences between the Light and Dark treatment groups across all four photophysiological parameters. The Light treatment generally exhibited higher Am and Ik values, whereas AQY and Rd showed treatment-dependent variation.
 
 ![](/images/Table2_Photophysiology_Parameters.png)
+![](/Rana-Research-method-2026/images/Table2_Photophysiology_Parameters.png)
+
 
 ---
 
@@ -112,6 +116,7 @@ The summary statistics indicate differences between the Light and Dark treatment
 The fitted curves show the expected increase in electron transport rate with increasing irradiance until saturation is reached. Differences in curve shape and maximum ETR are evident among algal taxa and between the Light and Dark treatment groups.
 
 ![](/images/figure1_PI_curves.png)
+![](/Rana-Research-method-2026/images/figure1_PI_curves.png)
 
 ---
 
@@ -123,6 +128,7 @@ The distributions indicate variation in all four photophysiological parameters b
 
 
 ![](/images/Figure2_Boxplots.png)
+![](/Rana-Research-method-2026/images/Figure2_Boxplots.png)
 ## 6. Interpretation / Discussion
 
 The photophysiological analyses revealed measurable differences between macroalgae exposed to the Light and Dark treatments. The fitted photosynthesis–irradiance (P–I) curves showed the expected increase in electron transport rate (ETR) with increasing irradiance, followed by saturation at higher light intensities.
