@@ -90,14 +90,14 @@ The results obtained from the photophysiological analyses are presented in the f
 
 ## Table 1. Metadata
 
-<<<<<<< HEAD
+
 **Table 1.** Metadata describing all algal samples included in the experiment. The table presents the experimental treatment (Light or Dark), sample number, taxonomic identification, and the corresponding Sample ID used throughout the analysi
 =======
 **Table 1.** Metadata describing all algal samples included in the experiment. The table presents the experimental treatment (Light or Dark), sample number, taxonomic identification, and the corresponding Sample ID used throughout the analysis.
 
 ![](/images/Table1_Metadata.png)
 ![](/Rana-Research-method-2026/images/Table1_Metadata.png)
->>>>>>> c8f529d3d53244a70c98955fc00256ae7340d805
+
 
 ---
 
