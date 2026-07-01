@@ -122,6 +122,7 @@ The fitted curves show the expected increase in electron transport rate with inc
 ![](/images/figure1_PI_curves.png)
 ![](/Rana-Research-method-2026/images/figure1_PI_curves.png)
 
+
 ---
 
 ## Figure 3. Comparison of Photophysiological Parameters
